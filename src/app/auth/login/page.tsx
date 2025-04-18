@@ -54,7 +54,7 @@ export default function LogIn() {
 
           <div className="mt-[6rem] md:mt-0">
             <h2 className="text-3xl text-[#0C1421] font-bold">
-              Welcome Back 👋
+              Welcome Back
             </h2>
             <p className="text-[#313957] mt-2">
               Today is a new day. It&apos;s your day. Sign in to manage your
